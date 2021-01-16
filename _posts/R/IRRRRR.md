@@ -1,9 +1,9 @@
 ---
-title: "Hello World!"
+title: "International Relations Research with R"
 categories:
   - R
 tags:
-  - R, software, International Relations
+  - R, software, International Relations, research
 ---
 
 # Useful R Packages for IR Research
