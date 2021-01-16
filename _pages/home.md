@@ -4,7 +4,7 @@ layout: single
 permalink: /
 ---
 
-I am a data scientist with a background in quantitative social science. I earned my PhD in Political Science at the University of Illinois, Urbana-Champaign in December, 2017 and am currently a postdoctoral lecturer at the University of Pennsylvania.
+I am a quantitative social scientist interested in applying my skills to a variety of problems. I earned my PhD in Political Science at the University of Illinois, Urbana-Champaign in December, 2017 and am currently a postdoctoral lecturer at the University of Pennsylvania.
 
 I am proficient in Python, R, and SQL. I have experience with a variety of analytical techniques including machine learning regression and classification (Random Forest, SVM, XGBoost), natural language processing, causal inference, geospatial analysis, multilevel models, survival analysis, and survey research.
 
