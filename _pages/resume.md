@@ -5,10 +5,10 @@ layout: single
 author_profile: false
 ---
 
-# Experience
+## Experience
 
 - Lecturer, International Relations Program, University of Pennsylvania
 
-# Education
+## Education
 
 - PhD, Political Science, University of Illinois, Urbana-Champaign
