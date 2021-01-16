@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "David Bowden"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an an academic researcher and data scientist."
+  bio              : "Data Enthusiast"
   location         : "East Coast"
   email            :
   links:
@@ -118,7 +118,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
-      icon: "fab fa fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dbowden2"
 
 # Site Footer
