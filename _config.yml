@@ -95,8 +95,7 @@ analytics:
 author:
   name             : # ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Social Science PhD  
-  Data Enthusiast"
+  bio              : "Social Science PhD<br/>Data Enthusiast"
   location         : "East Coast"
   email            :
   links:
