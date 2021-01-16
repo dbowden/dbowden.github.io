@@ -2,10 +2,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "R\&‌eacute;sum\&‌eacute;"
+  - title: "Resume"
     url: /resume/
   - title: "Blog"
-    url: /year-archive/
+    url: /category-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
