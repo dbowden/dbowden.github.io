@@ -4,4 +4,5 @@ permalink: /posts/
 layout: posts
 author_profile: true
 ---
-See also [Posts by category](/categories/)
+[Search by category](/categories/)
+[Search by tag](/tag/)
