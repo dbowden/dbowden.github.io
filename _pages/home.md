@@ -2,9 +2,6 @@
 title: ""
 layout: single
 permalink: /
- 
-about_me:
-- url: /about/
 ---
 
-{% include about_me %}
+Hi, it's me David.
