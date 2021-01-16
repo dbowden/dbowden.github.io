@@ -1,7 +1,8 @@
 ---
 title: ""
-layout: single
+layout: posts
 permalink: /
+author_profile: true
 ---
 
 I am a quantitative social scientist interested in applying my skills to a variety of problems. I earned my PhD in Political Science at the University of Illinois, Urbana-Champaign in December, 2017 and am currently a postdoctoral lecturer at the University of Pennsylvania.
