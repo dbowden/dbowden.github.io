@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "R&‌eacute;sum&‌eacute;"
+  - title: "R\&‌eacute;sum\&‌eacute;"
     url: /resume/
   - title: "Blog"
     url: /year-archive/
