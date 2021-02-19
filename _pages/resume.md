@@ -7,7 +7,7 @@ author_profile: true
 
 ## Experience
 
-- Lecturer, International Relations Program, University of Pennsylvania
+- Lecturer, International Relations Program, University of Pennsylvania, August 2017 -- Present
 
 ## Education
 
